@@ -3,7 +3,7 @@ PODS:
   - Nimble (5.1.1)
   - Quick (1.0.0)
   - Reactant (1.0.0):
-    - Reactant/Core (= 1.0.0)
+    - Reactant/Core (= 1.0.0)µ™µ™
     - Reactant/Result (= 1.0.0)
   - Reactant/Configuration (1.0.0):
     - RxSwift (~> 3.0)
