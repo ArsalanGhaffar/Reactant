@@ -6,6 +6,7 @@
 //  Copyright © 2016 Brightify. All rights reserved.
 //
 
+#if os(iOS)
 import UIKit
 
 extension UIButton {
@@ -33,3 +34,4 @@ extension UIButton {
         setBackgroundImage(image!, for: state)
     }
 }
+#endif
